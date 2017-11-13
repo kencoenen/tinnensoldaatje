@@ -9,7 +9,7 @@ email: kencoenen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Het Tinnen Soldaatje brengt fijngevoelige muziek voor jonge kindjes
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.tinnensoldaatje.be" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: tinnensoldaatje
 facebook: tinnensoldaatje
 
