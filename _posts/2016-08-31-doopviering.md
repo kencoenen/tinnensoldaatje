@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mijlpaal bereikt: Boek + CD doopviering"
-categories: music production, book
+categories: music-production book
 ---
 
 Het was even doorwerken de laatste weken, maar hij is eindelijk klaar!
