@@ -24,7 +24,8 @@ Ik had vooral veel vragen:
 - Doen jullie ook mixing en mastering?
 - Wordt de muziek best in één keer opgenomen (zang en gitaar tegelijk) of apart?
 
+Na een twee uur (!) durend gesprek, kreeg ik een rondleiding.
 Stef toonde mij enkele studioruimtes.
-Ondanks de verbouwingen die gaande waren, zijn die tip top in orde.
+Ondanks de verbouwingen die gaande waren, waren die tip top in orde.
 
 Ik kijk er super naar uit om mijn muziek hier concreet te maken!
