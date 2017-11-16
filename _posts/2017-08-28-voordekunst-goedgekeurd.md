@@ -14,4 +14,4 @@ Om een sterke campagnepagina te maken hebben we wat tips voor je. Lees ze snel, 
 
 De volgende uitdaging is het neerzetten van een kwalitatieve campagnepagina.
 
-Ik weet wat doen de volgende dagen.
+Ik weet wat doen de komende dagen, weken en maanden!
