@@ -10,7 +10,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Het Tinnen Soldaatje brengt fijngevoelige muziek voor jonge kindjes
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-facebook: tinnensoldaatje1
+facebook_username: tinnensoldaatje1
+instagram_username: tinnensoldaatje
 
 sass:
     sass_dir: _sass
