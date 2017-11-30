@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ontmoeting MotorMusic"
-categories: music-production
+categories: muziekproductie
 ---
 
 Vandaag had ik een ontmoeting met MotorMusic.
