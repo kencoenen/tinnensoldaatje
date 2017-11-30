@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Zoektocht naar een illustratrice"
-categories: drawing illustrations
+categories: tekeningen
 ---
 
 Frustratie, frustratie!
