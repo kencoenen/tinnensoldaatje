@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Afspraak met illustratrice Inge Wynants"
-categories: drawing illustrations
+categories: tekeningen
 ---
 
 Na vanavond ben ik nog enthousiaster geworden over het project.
