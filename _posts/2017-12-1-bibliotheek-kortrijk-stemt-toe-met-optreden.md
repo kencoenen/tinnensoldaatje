@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bibliotheek Kortrijk staat open voor optreden"
+title:  "Bibliotheek Kortrijk stemt toe met optreden"
 categories: optreden voorleesmoment
 ---
 
