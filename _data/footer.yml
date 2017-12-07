@@ -2,13 +2,11 @@
   links:
     - name: Home
       link: /
-    - name: About
-      link: /about/
-    - name: Services
-      link: /services/
+    - name: Over mezelf
+      link: /over-mezelf/
     - name: Contact
       link: /contact/
-    - name: Advice
+    - name: Blog
       link: /advice/
 - title: Social
   links:
