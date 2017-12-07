@@ -45,12 +45,9 @@ map:
 	</div>
 
 	<div class="column">
-		<form method="post" action="/contact-success.html">
+		<form method="post" action="https://formspree.io/{{ site.data.company.contact_email_address }}">
 			<label for="email_address">Email*</label>
 			<input id="email_address"type="text" name="email">
-
-			<input type="hidden" name="_to" value="{{ site.data.company.contact_email_address }}">
-			<input type="text" name="_gotcha" style="display: none;">
 
 			<input type="submit" value="Verzend">
 		</form>
