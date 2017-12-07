@@ -17,8 +17,6 @@ __"Samen naar het park"__ wordt een __geïllustreerd kinderboek met CD__ met zel
 
 Er spelen ongelofelijk veel muziekideeën door mijn hoofd. Dit project is hopelijk het eerste van vele anderen!
 
-# Dromen over de toekomst
-
 Als dit project slaagt, dan lijkt het me superleuk om nog boekjes te maken. Om een samenhangend verhaal te hebben, heb ik voor dit project een aantal liedjes niet gebruikt. Misschien komt mijn droom uit en zullen we boekjes over andere thema's kunnen lezen. Wat denk je van "Samen naar de dierentuin"? Of "Samen naar het attractiepark"?
 
 Een mens mag al eens dromen...!
