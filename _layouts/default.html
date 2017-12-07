@@ -37,6 +37,7 @@
 						{% for nav_page in nav_pages %}
 							<li><a {% if nav_page.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ nav_page.url }}">{{ nav_page.title }}</a></li>
 						{% endfor %}
+						<li><a {% if nav_page.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}/advice">Blog</a></li>
 					</ul>
 				</nav>
 			</div>
