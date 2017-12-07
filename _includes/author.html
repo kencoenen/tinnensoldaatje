@@ -1,0 +1,15 @@
+<div class="staff-details">
+	<div class="staff-image">
+		<img src="{% include relative-src.html src=include.member.image %}" alt="Staff photo for {{ include.member.name }}" width="120" height="120">
+	</div>
+	<ul class="staff-info">
+		<li>{{ include.member.name }}</li>
+		{% if site.data.company.contact_phone_number %}
+		<li><a href="tel:{{ site.data.company.contact_phone_number }}">{{ site.data.company.contact_phone_number }}</a>  ext {{ include.member.phone_extension }}</p></li>
+		{% endif %}
+	</ul>
+</div>
+
+<div class="staff-bio">
+	<p>{{ include.member.content | markdownify }}</p>
+</div>

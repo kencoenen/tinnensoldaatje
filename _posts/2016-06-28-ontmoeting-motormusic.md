@@ -2,6 +2,7 @@
 layout: post
 title:  "Ontmoeting MotorMusic"
 categories: muziekproductie
+author: ken-coenen
 ---
 
 Vandaag had ik een ontmoeting met MotorMusic.

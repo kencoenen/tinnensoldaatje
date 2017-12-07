@@ -2,6 +2,7 @@
 layout: post
 title:  "Zoektocht naar een illustratrice"
 categories: tekeningen
+author: ken-coenen
 ---
 
 Frustratie, frustratie!

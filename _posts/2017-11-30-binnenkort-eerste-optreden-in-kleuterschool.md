@@ -2,9 +2,11 @@
 layout: post
 title:  "Binnenkort eerste optreden in kleuterschool"
 categories: optreden voorleesmoment
+author: ken-coenen
 ---
 
 Als alles goed gaat zal ik in januari voor het eerst voor een écht publiek spelen in de klas van mijn zoontje van drie jaar.
+
 Uiteraard heb ik de reacties van mijn eigen kinderen al gezien, maar pas dan zal ik weten hoe een groepje kinderen van die leeftijd reageert op de liedjes.
 Zullen ze het begrijpen?
 Gaan ze aandachtig kunnen blijven gedurende een half uur?

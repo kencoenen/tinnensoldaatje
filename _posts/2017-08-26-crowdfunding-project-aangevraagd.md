@@ -2,10 +2,12 @@
 layout: post
 title:  "Crowdfunding project aangevraagd"
 categories: crowdfunding
+author: ken-coenen
 ---
 
 Mijn neef Marc Bastijns inspireerde mij om mijn project te realiseren via crowdfunding.
-Hij vertelde dat hij een strip had gesponsord en dat na enkele maanden in de bus had gekregen.
+
+Hij vertelde me dat hij een strip had gesponsord en dat hij deze na enkele maanden in de bus had gekregen.
 
 <img src="{{ '/assets/images/blog/voordekunst-aanvraag.png' | prepend: site.baseurl }}" alt="Voordekunst aanvraag" />
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Afspraak met illustratrice Inge Wynants"
 categories: tekeningen
+author: ken-coenen
 ---
 
 Na vanavond ben ik nog enthousiaster geworden over het project.
