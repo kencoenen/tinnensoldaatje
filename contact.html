@@ -11,9 +11,17 @@ map:
   zoom: 13
 ---
 
-<p class="editable">
-	Laat je emailadres achter om op de hoogte te blijven van onze projecten.
-	We houden je op de hoogte van aankomende voorleesmomenten en wanneer de campagne voor "Samen naar het park" van start gaat en je het boek met CD kan kopen. 
+<p>
+	Laat je emailadres achter om op de hoogte gehouden te worden van toekomstige projecten.
+</p>
+<p>
+	We houden informeren jou over aankomende voorleesmomenten en wanneer de crowdfundingcampagne voor <strong>"Samen naar het park"</strong> van start gaat en je het boek met CD kan kopen. 
+</p>
+<p>
+	Werk je op een school of in een bibliotheek? 
+	Organiseer je evenementen voor kinderen?
+	Een voorleesmoment met live muziek duurt ongeveer een half uurtje, waarbij meerdere sessies op een namiddag mogelijk zijn.
+	Bel of mail voor meer informatie.
 </p>
 
 <div class="columns">
@@ -40,12 +48,6 @@ map:
 		<form method="post" action="/contact-success.html">
 			<label for="email_address">Email*</label>
 			<input id="email_address"type="text" name="email">
-
-			<label for="name">Naam*</label>
-			<input id="name" type="text" name="name">
-
-			<label for="message">Bericht</label>
-			<textarea id="message" name="message"></textarea>
 
 			<input type="hidden" name="_to" value="{{ site.data.company.contact_email_address }}">
 			<input type="text" name="_gotcha" style="display: none;">
