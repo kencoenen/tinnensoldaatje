@@ -43,6 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: post
+      call_to_action: Contact
       _options:
         content:
           width: 960
