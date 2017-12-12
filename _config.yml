@@ -9,7 +9,7 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: /images/siteicon.png
 description: Tinnen Soldaatje brengt fijngevoelige muziek voor jonge kinderen.
 author:
   name:
@@ -35,8 +35,8 @@ defaults:
       path: ""
     values:
       layout: page
-      background_image_path: /uploads/building.jpg
-      image: /uploads/building.jpg
+      background_image_path: /assets/images/tekeningen/mannetje-rechts@0,25x.png
+      image: /assets/images/tekeningen/struik-2@0,1x.png
   -
     scope:
       path: ""
