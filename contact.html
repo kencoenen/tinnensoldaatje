@@ -47,7 +47,10 @@ map:
 	<div class="column">
 		<form method="post" action="https://formspree.io/{{ site.data.company.contact_email_address }}">
 			<label for="email_address">Email*</label>
-			<input id="email_address"type="text" name="email">
+			<input id="email_address"type="text" name="email" required>
+
+			<label for="name">Naam*</label>
+			<input id="name" type="text" name="naam" required>
 
 			<input type="submit" value="Verzend">
 		</form>
