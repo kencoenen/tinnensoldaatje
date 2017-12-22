@@ -1,6 +1,2 @@
----
-layout: null
-sitemap: false
----
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://www.tinnensoldaatje.be/sitemap.xml
