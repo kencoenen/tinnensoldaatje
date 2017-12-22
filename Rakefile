@@ -37,13 +37,16 @@ task :publish => [:generate] do
     desc "Copying '_site' content to #{tmp}..."
     Dir.chdir pwd
     cp_r "_site/.", tmp
+
+    pwd = Dir.pwd
     Dir.chdir tmp
 
-    desc "Pushing to Github..."
+    system "git init"
     system "git add ."
     message = "Site updated at #{Time.now.utc}"
     system "git commit -m #{message.inspect}"
-    system "git push --all -u"
+    system "git remote add origin git@github.com:kencoenen/tinnensoldaatje.git"
+    system "git push -u origin master"
 
     Dir.chdir pwd
   end
