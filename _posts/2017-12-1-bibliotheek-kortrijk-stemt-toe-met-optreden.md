@@ -3,6 +3,7 @@ layout: post
 title:  "Bibliotheek Kortrijk stemt toe met optreden"
 categories: optreden voorleesmoment
 author: ken-coenen
+image: /assets/images/blog/bellegem@0,5x.png
 ---
 
 Een tijdje geleden heb ik mijn project voorgesteld aan de centrale bibliotheek van Kortrijk.

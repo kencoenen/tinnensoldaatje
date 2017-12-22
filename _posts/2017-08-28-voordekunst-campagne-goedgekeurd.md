@@ -3,6 +3,7 @@ layout: post
 title:  "Voordekunst campagne goedgekeurd!"
 categories: crowdfunding
 author: ken-coenen
+image: /assets/images/blog/voordekunst@0,5x.png
 ---
 
 Vandaag kreeg ik een email in mijn mailbox van de mensen bij voordekunst.nl.

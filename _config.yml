@@ -79,6 +79,13 @@ exclude:
   - README.md
   - LICENCE
 
+gems:
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+
 # -----------
 # CloudCannon
 

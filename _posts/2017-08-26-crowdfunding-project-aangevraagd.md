@@ -3,6 +3,7 @@ layout: post
 title:  "Crowdfunding project aangevraagd"
 categories: crowdfunding
 author: ken-coenen
+image: /assets/images/blog/voordekunst@0,5x.png
 ---
 
 Mijn neef Marc Bastijns inspireerde mij om mijn project te realiseren via crowdfunding.

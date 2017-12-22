@@ -3,6 +3,7 @@ layout: post
 title:  "Mijlpaal bereikt: Boek + CD doopviering"
 categories: muziekproductie kinderboek
 author: ken-coenen
+image: /assets/images/blog/welkom_gijs_en_tuur@0,25x_2.png
 ---
 
 Het was even doorwerken de laatste weken en maanden, maar hij is eindelijk klaar!
