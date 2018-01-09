@@ -10,7 +10,7 @@ Mijn neef Marc Bastijns inspireerde mij om mijn project te realiseren via crowdf
 
 Hij vertelde me dat hij een strip had gesponsord en dat hij deze na enkele maanden in de bus had gekregen.
 
-<img src="{{ '/assets/images/blog/voordekunst-aanvraag.png' | prepend: site.baseurl }}" alt="Voordekunst aanvraag" />
+<img src="{{ '/assets/images/blog/voordekunst-aanvraag.png' | prepend: site.baseurl }}" class="image fit" alt="Voordekunst aanvraag" />
 
 Het project wordt niet zomaar op de site gezet.
 Er is veel voorbereiding nodig:

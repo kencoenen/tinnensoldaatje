@@ -1,0 +1,73 @@
+
+.imageGrid {
+    line-height: 0;
+  }
+  .imageGrid .tile {
+    width:49%;
+    min-height:20em;
+    line-height: 1.2;
+    display:inline-block;
+    background-size: 100% auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    position: relative;
+    
+    color:#fff;
+    font-family:"Verdana",sans-serif;
+    text-shadow: 2px 2px 2px #000;
+  }
+  
+  .imageGrid .tile .textWrapper {
+    text-align: center;
+    vertical-align: middle;
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: .75em;
+  }
+  
+  .imageGrid .tile .textWrapper .content {
+    display: none;
+  }
+  
+  .imageGrid .tile:hover .textWrapper .content {
+    display: block;
+  }
+  
+  .imageGrid .tile:hover .textWrapper .content h2 {
+    margin: 0;
+  }
+  
+  @media (max-width: 1000px) {
+    .imageGrid .tile {
+      width: 50%;
+    }
+  }
+   
+  @media (max-width: 700px) {
+    .imageGrid .tile {
+      width: 100%;
+    }
+    
+  }
+
+  /**
+  Usage:
+
+  <div class="imageGrid">
+  <div class="tile" style="background-image: url('https://bit.ly/1tSEfja');">
+    <div class="textWrapper"><h2>Pont de Bir-Hakeim, Paris</h2>
+      <div class="content">The western part of the Pont de Bir-Hakeim seen at night. Buildings of the 16th arrondissement of Paris are visible in the background.</div>
+    </div>
+  </div>
+  <div class="tile" style="background-image: url('https://bit.ly/1tSEfja');">
+    <div class="textWrapper"><h2>Pont de Bir-Hakeim, Paris</h2>
+      <div class="content">The western part of the Pont de Bir-Hakeim seen at night. Buildings of the 16th arrondissement of Paris are visible in the background.</div>
+    </div>
+  </div>
+</div>
+
+  **/

@@ -18,7 +18,7 @@ Ze had op een tekenblok wat dingen uitgeprobeerd:
 gelaatsuitdrukkingen van het hoofdpersonage, struikjes en vogeltjes.
 Daarbij werd er geëxperimenteerd met verschillende tekenstijlen en materialen.
 
-Dan liet ze mij één uitgewerkte tekening zien voor het lied `Doorgaan`.
+Dan liet ze mij één uitgewerkte tekening zien voor het lied *Doorgaan*.
 
 <img src="{{ '/assets/images/blog/doorgaan.png' | prepend: site.baseurl }}" class="image fit" alt="Doorgaan illustratie" />
 
