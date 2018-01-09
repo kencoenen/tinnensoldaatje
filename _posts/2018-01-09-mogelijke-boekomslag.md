@@ -12,9 +12,9 @@ Dit voorbeeld kan ook gebruikt worden op een promoaffiche wanneer ik in een bibl
 
 
 <div class="imageGrid">
-  <div class="tile" style="background-image: url('{{ '/assets/images/blog/render_v2_2.png' | prepend: site.baseurl }}');">
+  <div class="tile" style="background-image: url('{% include relative-src.html src=/assets/images/blog/render_v2_2.png %}');">
   </div>
-  <div class="tile" style="background-image: url('{{ '/assets/images/blog/render_v2.png' | prepend: site.baseurl }}');">
+  <div class="tile" style="background-image: url('{% include relative-src.html src=/assets/images/blog/render_v2.png %}');">
   </div>
 </div>
 
