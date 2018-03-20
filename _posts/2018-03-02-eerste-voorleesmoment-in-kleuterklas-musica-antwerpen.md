@@ -3,7 +3,7 @@ layout: post
 title:  "Eerste voorleesmoment in Kleine Musica Antwerpen"
 categories: optreden voorleesmoment
 author: ken-coenen
-image: /assets/images/blog/musica3.jpg
+image: /assets/images/blog/musica3@0,5x.png
 ---
 
 Vandaag was ik te gast in kleuterschool Kleine Musica in Antwerpen.
@@ -15,7 +15,7 @@ Voor de voorstellingen liet ik een **reclamebord** drukken met het hoofdpersonag
 Het bord is ongeveer één meter groot, even groot als de kinderen.
 Hierdoor krijgen ze vrijwel meteen voeling met het verhaal, een jongen die naar het park gaat met zijn ouders.
 
-<img src="{{ '/assets/images/blog/musica.jpg' | prepend: site.baseurl }}" class="image fit" alt="Samen naar het park in Kleine Musica" />
+<img src="{{ '/assets/images/blog/musica@0,5x.png' | prepend: site.baseurl }}" class="image fit" alt="Samen naar het park in Kleine Musica" />
 
 De liedjes worden aan elkaar gepraat met **korte tekstjes**, die ook in het uiteindelijke liedjesboek zullen staan.
 Zonder veel moeite pikten de kinderen het verhaal op en fantaseerden ze mee over mogelijke kledingstukken die je aan kan doen, speelgoed dat je mee naar het park kan nemen, kapitein zijn op een boot en nog veel meer.
